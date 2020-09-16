@@ -1,3 +1,5 @@
+/* Samuel Switzer 2020 */
+/* Content */
 h1 {
 	color: #c9c9c9;
 	font: Arial, sans-serif;
@@ -24,6 +26,9 @@ p {
 table {
 	border-spacing: 10px;
 }
-tr {
 
+/* Classes */
+.gitlogo {
+    color: #fff;
+		fill: currentColor;
 }
