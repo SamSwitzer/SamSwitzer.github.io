@@ -9,8 +9,6 @@ h1 {
 h2, h3, h4 {
 	color: #3498AA;
 	font: Arial, sans-serif;
-	margin-top: -25px;
-	padding-left: 50px;
 }
 
 body {
@@ -23,8 +21,19 @@ p {
 	font: 14px Arial, sans-serif;
 }
 
-table {
+table, th {
 	border-spacing: 10px;
+	border: 1px solid #c9c9c9;
+}
+
+blockquote {
+	color: #3498AA;
+	font: 20px Arial, sans-serif
+}
+
+li {
+	color: white;
+	font: 14px Arial, sans-serif;
 }
 
 /* Classes */
