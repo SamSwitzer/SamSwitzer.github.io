@@ -41,3 +41,23 @@ li {
     color: #fff;
 		fill: currentColor;
 }
+
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 7em;
+  height: 7em;
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: #3498AA;
+}
+
+.svg-icon circle {
+  stroke: #3498AA;
+  stroke-width: 1;
+}
