@@ -45,6 +45,18 @@ li {
 	border: 1px solid #c9c9c9;
 }
 
+.artphoto {
+	border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+	margin: 20px;
+	filter: drop-shadow(5px 5px 10px grey);
+}
+.artphoto:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
 .gitlogo {
     color: #fff;
 		fill: currentColor;
