@@ -39,11 +39,6 @@ li {
 }
 
 /* Classes */
-.photo {
-	width: 200px;
-	padding: 10px;
-	border: 1px solid #c9c9c9;
-}
 
 .artphoto {
 	border: 1px solid #ddd;
@@ -57,10 +52,7 @@ li {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
-.gitlogo {
-    color: #fff;
-		fill: currentColor;
-}
+
 
 /* -----
 SVG Icons - svgicons.sparkk.fr
