@@ -1,0 +1,38 @@
+/* Samuel Switzer 2021 */
+/* Content */
+h1 {
+	color: #c9c9c9;
+	font: Arial, sans-serif;
+	font-size: 40px;
+}
+h2, h3, h4 {
+	color: #3498AA;
+	font: Arial, sans-serif;
+}
+
+body {
+	background-image: url("images/stripebg.png");
+	background-color: #222;
+	font: 14px Arial, sans-serif;
+}
+
+p {
+	color: white;
+	font: 14px Arial, sans-serif;
+}
+
+table, th {
+	background-color:#222;
+	border-spacing: 10px;
+	border: 1px solid #c9c9c9;
+}
+
+blockquote {
+	color: #3498AA;
+	font: 20px Arial, sans-serif
+}
+
+li {
+	color: white;
+	font: 14px Arial, sans-serif;
+}
