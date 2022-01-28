@@ -48,7 +48,6 @@ h2 {
 
 h3 {
   color: #282828;
-  font-family: 'Courier Prime', monospace;
   font-size: 16px;
   line-height: 32px;
   letter-spacing: 6px;
@@ -57,17 +56,20 @@ h3 {
 
 h4 {
   color: #f0f0f0;
-  font-family: 'Courier Prime', monospace;
   font-size: 20px;
 }
 
 p {
-  color: #19181A;
-  font-family: 'Courier Prime', monospace;
+  color: #222;
   font-size: 16px;
   font-weight: BOLD;
   line-height: 25px;
   letter-spacing: 0.2px;
+}
+
+li {
+  color: #222;
+  font-size: 16px;
 }
 
 .bg-grey {
